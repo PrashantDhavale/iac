@@ -6,3 +6,9 @@ infra/terraform-local-file/tf-docker/.terraform/providers/registry.terraform.io/
 infra/terraform-local-file/tf-docker/.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/windows_amd64/CHANGELOG.md
 *.tfstate
 infra/terraform-local-file/tf-docker/terraform.tfstate.backup
+infra/learn-terraform-docker-container/terraform.tfstate.backup
+*.hcl
+infra/learn-terraform-docker-container/.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/windows_amd64/CHANGELOG.md
+infra/learn-terraform-docker-container/.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/windows_amd64/LICENSE
+infra/learn-terraform-docker-container/.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/windows_amd64/README.md
+infra/learn-terraform-docker-container/.terraform/providers/registry.terraform.io/kreuzwerker/docker/3.0.2/windows_amd64/terraform-provider-docker_v3.0.2.exe
